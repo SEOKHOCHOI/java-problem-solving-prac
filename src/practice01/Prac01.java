@@ -1,6 +1,6 @@
 package practice01;
 
-public class Study01 {
+public class Prac01 {
     public static void main(String[] args) {
         System.out.println("[구구단 출력]");
 
