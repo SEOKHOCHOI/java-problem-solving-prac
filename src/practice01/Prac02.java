@@ -1,7 +1,7 @@
 package practice01;
 import java.util.Scanner;
 
-public class Study02 {
+public class Prac02 {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
 
