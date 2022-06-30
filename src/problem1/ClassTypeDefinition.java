@@ -1,6 +1,6 @@
 package problem1;
 
-public class code01 {
+public class ClassTypeDefinition {
 
     public static void main(String[] agrs) {
 
