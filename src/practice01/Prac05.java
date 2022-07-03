@@ -1,10 +1,6 @@
 package practice01;
-import javax.swing.text.DateFormatter;
-import java.sql.SQLOutput;
-import java.time.DayOfWeek;
+
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.time.temporal.TemporalAdjusters;
 import java.util.Scanner;
 
 public class Prac05 {
