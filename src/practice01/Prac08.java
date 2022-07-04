@@ -3,7 +3,7 @@ package practice01;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-class returnToString {
+class ReturnToString {
     private int annualIncome;
     private int taxRate;
     private int progressiveDeduction;
@@ -42,7 +42,7 @@ public class Prac08 {
         // 세율 taxRate
         // 누진공제 progressiveDeduction
         Scanner kb = new Scanner(System.in);
-        returnToString taxResult = new returnToString();
+        ReturnToString taxResult = new ReturnToString();
         ArrayList<String> incomeArr = new ArrayList<>();
 
         System.out.println("[과세금액 계산 프로그램]");
